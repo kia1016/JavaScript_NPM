@@ -1,0 +1,17 @@
+{
+  "name": "javascript_testnpm",
+  "version": "1.0.0",
+  "description": "test npm and web package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kia Mangrum",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.14",
+    "chalk": "^5.0.1",
+    "debug": "^4.3.4",
+    "lodash": "^4.17.21"
+  }
+}
